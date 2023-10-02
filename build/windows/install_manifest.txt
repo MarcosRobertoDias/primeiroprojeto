@@ -1,0 +1,11 @@
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/icudtl.dat
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/flutter_windows.dll
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Dio/flutter/primeiroprojeto/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
